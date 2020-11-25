@@ -1,2 +1,2 @@
 # JWTAuthentication
-A simple JWT based authentication example in Asp.net core.
+A simple JWT based authentication example in Asp.net core. Enjoy!
