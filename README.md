@@ -5,4 +5,4 @@ How to run locally: After you build and run the project, use Postman (or other s
 
 Please do all the neccessary changes as you see it fit (i.e., email, password authentication with your database in SignInManager class).
 
-<img src="Architecture.jpg" />
+<img src="jwt.jpg" />
